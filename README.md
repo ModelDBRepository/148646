@@ -1,5 +1,4 @@
-Model files for the Springer [Encyclopedia of Computational Neuroscience](http://dx.doi.org/10.1007/978-1-4614-6675-8_123) entry "Action potential Back-Propagation"  
-by Sonia Gasparini and Michele Migliore.
+Model files for the Springer [Encyclopedia of Computational Neuroscience](http://dx.doi.org/10.1007/978-1-4614-6675-8_123) entry "Action potential Back-Propagation" by Sonia Gasparini and Michele Migliore.
 
 The model shows how the back-propagation of action potentials  
 in the dendrites of CA1 pyramidal neurons is modulated by  
